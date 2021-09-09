@@ -6,17 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Olá Mundo!</h1>
+        <p> Este é meu primeiro app com React.js, portanto peguem leve. Futuramente irei atualizalo no github, mas por agora só estou testando.</p>
       </header>
     </div>
   );
